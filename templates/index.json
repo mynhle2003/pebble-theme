@@ -15,6 +15,7 @@
         "slide_1": {
           "type": "slide",
           "settings": {
+            "image_position": "center center",
             "eyebrow": "New season",
             "heading": "Made for everyday wonder",
             "description": "<p>Comfort-led pieces with playful character, ready for every little adventure.</p>",
@@ -25,19 +26,19 @@
             "vertical_position": "middle",
             "mobile_content_alignment": "center",
             "mobile_vertical_position": "bottom",
-            "image_position": "center center",
-            "background_color": "#9EAD8A",
-            "text_color": "#FFFFFF",
-            "overlay_color": "#25301E",
+            "background_color": "#9ead8a",
+            "text_color": "#ffffff",
+            "overlay_color": "#25301e",
             "overlay_opacity": 15,
             "button_style": "solid",
-            "button_background": "#FFFFFF",
+            "button_background": "#ffffff",
             "button_text_color": "#111111"
           }
         },
         "slide_2": {
           "type": "slide",
           "settings": {
+            "image_position": "center center",
             "eyebrow": "Soft essentials",
             "heading": "Colour, comfort, freedom",
             "description": "<p>Easy silhouettes and cheerful details designed to move through the day.</p>",
@@ -48,13 +49,12 @@
             "vertical_position": "middle",
             "mobile_content_alignment": "center",
             "mobile_vertical_position": "bottom",
-            "image_position": "center center",
-            "background_color": "#B98270",
-            "text_color": "#FFFFFF",
-            "overlay_color": "#351D16",
+            "background_color": "#b98270",
+            "text_color": "#ffffff",
+            "overlay_color": "#351d16",
             "overlay_opacity": 15,
             "button_style": "solid",
-            "button_background": "#FFFFFF",
+            "button_background": "#ffffff",
             "button_text_color": "#111111"
           }
         }
@@ -64,7 +64,7 @@
         "slide_2"
       ],
       "settings": {
-        "layout": "custom",
+        "layout": "full",
         "custom_width": 1400,
         "desktop_height": 680,
         "mobile_height": 620,
@@ -75,8 +75,8 @@
         "pause_on_hover": true,
         "show_counter": true,
         "show_navigation": true,
-        "padding_top": 16,
-        "padding_bottom": 32
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "main": {
