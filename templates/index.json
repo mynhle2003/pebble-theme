@@ -65,6 +65,8 @@
         "slide_43Gci8": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/image.png",
+            "mobile_image": "shopify://shop_images/image2.png",
             "image_position": "center center",
             "eyebrow": "New season",
             "heading": "Made for everyday wonder",
