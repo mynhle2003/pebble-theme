@@ -9,12 +9,82 @@
  */
 {
   "sections": {
+    "hero_slideshow": {
+      "type": "hero-slideshow",
+      "blocks": {
+        "slide_1": {
+          "type": "slide",
+          "settings": {
+            "eyebrow": "New season",
+            "heading": "Made for everyday wonder",
+            "description": "<p>Comfort-led pieces with playful character, ready for every little adventure.</p>",
+            "button_label": "Shop collection",
+            "button_link": "/collections/all",
+            "heading_size": "large",
+            "content_alignment": "left",
+            "vertical_position": "middle",
+            "mobile_content_alignment": "center",
+            "mobile_vertical_position": "bottom",
+            "image_position": "center center",
+            "background_color": "#9EAD8A",
+            "text_color": "#FFFFFF",
+            "overlay_color": "#25301E",
+            "overlay_opacity": 15,
+            "button_style": "solid",
+            "button_background": "#FFFFFF",
+            "button_text_color": "#111111"
+          }
+        },
+        "slide_2": {
+          "type": "slide",
+          "settings": {
+            "eyebrow": "Soft essentials",
+            "heading": "Colour, comfort, freedom",
+            "description": "<p>Easy silhouettes and cheerful details designed to move through the day.</p>",
+            "button_label": "Explore new arrivals",
+            "button_link": "/collections/all",
+            "heading_size": "large",
+            "content_alignment": "left",
+            "vertical_position": "middle",
+            "mobile_content_alignment": "center",
+            "mobile_vertical_position": "bottom",
+            "image_position": "center center",
+            "background_color": "#B98270",
+            "text_color": "#FFFFFF",
+            "overlay_color": "#351D16",
+            "overlay_opacity": 15,
+            "button_style": "solid",
+            "button_background": "#FFFFFF",
+            "button_text_color": "#111111"
+          }
+        }
+      },
+      "block_order": [
+        "slide_1",
+        "slide_2"
+      ],
+      "settings": {
+        "layout": "contained",
+        "desktop_height": 680,
+        "mobile_height": 620,
+        "corner_radius": 24,
+        "transition": "fade",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "pause_on_hover": true,
+        "show_counter": true,
+        "show_navigation": true,
+        "padding_top": 16,
+        "padding_bottom": 32
+      }
+    },
     "main": {
       "type": "hello-world",
       "settings": {}
     }
   },
   "order": [
+    "hero_slideshow",
     "main"
   ]
 }

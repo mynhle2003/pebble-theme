@@ -29,26 +29,61 @@
     "section": "Section",
     "settings": "Settings",
     "sidebar": "Sidebar",
+    "slide": "Slide",
+    "slideshow": "Hero slideshow",
+    "motion": "Motion",
+    "spacing": "Spacing",
     "text": "Text",
     "theme": "Theme",
     "typography": "Typography"
   },
   "labels": {
     "alignment": "Alignment",
+    "autoplay": "Auto-rotate slides",
+    "autoplay_speed": "Change slides every",
     "background": "Background",
+    "button_background": "Button background",
+    "button_label": "Button label",
+    "button_link": "Button link",
+    "button_style": "Button style",
+    "button_text_color": "Button text",
+    "content_alignment": "Desktop content alignment",
+    "corner_radius": "Corner radius",
+    "description": "Description",
+    "desktop_height": "Desktop height",
+    "eyebrow": "Eyebrow",
     "foreground": "Foreground",
     "grid_gap": "Grid spacing",
     "grid_item_width": "Grid item width",
     "input_corner_radius": "Input corner radius",
+    "heading": "Heading",
+    "heading_size": "Heading size",
+    "image": "Desktop image",
+    "image_position": "Image focal area",
     "layout_direction": "Layout direction",
+    "layout": "Layout",
     "menu": "Menu",
+    "mobile_content_alignment": "Mobile content alignment",
+    "mobile_height": "Mobile height",
+    "mobile_image": "Mobile image",
+    "mobile_vertical_position": "Mobile vertical position",
     "customer_account_menu": "Customer account menu",
+    "overlay_color": "Overlay color",
+    "overlay_opacity": "Overlay opacity",
+    "padding_bottom": "Bottom spacing",
+    "padding_top": "Top spacing",
+    "pause_on_hover": "Pause on hover",
     "padding": "Padding",
     "page_margin": "Page margin",
     "page_width": "Page width",
     "show_payment_icons": "Show payment icons",
+    "show_counter": "Show slide count and progress",
+    "show_navigation": "Show navigation arrows",
+    "text_color": "Text color",
     "text_style": "Text style",
-    "text": "Text"
+    "text": "Text",
+    "transition": "Transition",
+    "vertical_position": "Desktop vertical position"
   },
   "options": {
     "alignment": {
@@ -60,6 +95,21 @@
       "horizontal": "Horizontal",
       "vertical": "Vertical"
     },
+    "button_style": {
+      "solid": "Solid",
+      "outline": "Outline"
+    },
+    "image_position": {
+      "center": "Center",
+      "top": "Top",
+      "bottom": "Bottom",
+      "left": "Left",
+      "right": "Right"
+    },
+    "layout": {
+      "contained": "Contained with margins",
+      "full": "Full width"
+    },
     "page_width": {
       "narrow": "Narrow",
       "wide": "Wide"
@@ -68,10 +118,19 @@
       "large": "Large",
       "small": "Small"
     },
+    "transition": {
+      "slide": "Slide",
+      "fade": "Fade"
+    },
+    "vertical_position": {
+      "top": "Top",
+      "middle": "Middle",
+      "bottom": "Bottom"
+    },
     "text_style": {
       "title": "Title",
       "subtitle": "Subtitle",
       "normal": "Normal text"
-    },
+    }
   }
 }
