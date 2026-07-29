@@ -64,7 +64,8 @@
         "slide_2"
       ],
       "settings": {
-        "layout": "contained",
+        "layout": "custom",
+        "custom_width": 1400,
         "desktop_height": 680,
         "mobile_height": 620,
         "corner_radius": 24,

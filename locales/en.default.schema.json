@@ -49,6 +49,7 @@
     "button_text_color": "Button text",
     "content_alignment": "Desktop content alignment",
     "corner_radius": "Corner radius",
+    "custom_width": "Custom maximum width",
     "description": "Description",
     "desktop_height": "Desktop height",
     "eyebrow": "Eyebrow",
@@ -107,7 +108,7 @@
       "right": "Right"
     },
     "layout": {
-      "contained": "Contained with margins",
+      "custom": "Custom width",
       "full": "Full width"
     },
     "page_width": {
