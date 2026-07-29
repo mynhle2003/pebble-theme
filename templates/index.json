@@ -15,6 +15,8 @@
         "slide_1": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/slide-1-v2.webp",
+            "mobile_image": "shopify://shop_images/slide-1-v2--mb.webp",
             "image_position": "center center",
             "eyebrow": "Little Moments",
             "heading": "Wrapped in Warmth",
@@ -38,6 +40,8 @@
         "slide_2": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/slide-2-v2.webp",
+            "mobile_image": "shopify://shop_images/slide-2-v2--mb.webp",
             "image_position": "center center",
             "eyebrow": "New Campaign",
             "heading": "Softness in Comfort",
