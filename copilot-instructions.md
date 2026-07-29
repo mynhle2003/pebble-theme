@@ -1,0 +1,1 @@
+/Users/beae/Documents/Shopify/pebble-theme/AGENTS.md
