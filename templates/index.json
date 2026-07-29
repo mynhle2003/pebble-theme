@@ -61,11 +61,35 @@
             "button_background": "#ffffff",
             "button_text_color": "#111111"
           }
+        },
+        "slide_43Gci8": {
+          "type": "slide",
+          "settings": {
+            "image_position": "center center",
+            "eyebrow": "New season",
+            "heading": "Made for everyday wonder",
+            "description": "",
+            "button_label": "Shop collection",
+            "button_link": "",
+            "heading_size": "large",
+            "content_alignment": "left",
+            "vertical_position": "middle",
+            "mobile_content_alignment": "center",
+            "mobile_vertical_position": "bottom",
+            "background_color": "#9ead8a",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 15,
+            "button_style": "solid",
+            "button_background": "#ffffff",
+            "button_text_color": "#111111"
+          }
         }
       },
       "block_order": [
         "slide_1",
-        "slide_2"
+        "slide_2",
+        "slide_43Gci8"
       ],
       "settings": {
         "layout": "full",
